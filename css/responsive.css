@@ -1,0 +1,70 @@
+@media (max-width:375px) {
+    
+}
+
+/* mobile */
+@media (max-width:767px) {
+    .navbar-logo {
+        width: 140px;
+    }
+
+    .navbar-btn {
+        top: 5px;
+    }
+
+    .home-content h2 {
+        font-size: 20px;
+    }
+
+    .home-content h1 {
+        font-size: 28px;
+    }
+
+    .home-content p {
+        font-size: 14px;
+    }
+
+    .home-content a {
+        font-size: 12px;
+    }
+
+    .content-box-header > p {
+        display: none;
+    }
+}
+
+/* -- */
+
+@media (min-width:768px) {
+    .navbar-logo {
+        width: 189px;
+    }
+
+    h1{font-size: 30px;}
+    h2{font-size: 22px;}
+    h3{font-size: 20px;}
+    p{font-size: 16px;}
+
+}
+
+/* -- */
+@media (min-width:992px) {
+    .footer-info-item {
+        margin-bottom: 0px;
+    }    
+}
+
+@media (min-width:1024px) {
+    header {
+        background: transparent;
+    }
+
+    .about-footer-wp {
+        padding: 40px 0 45px 0;
+    }
+    .about-footer .btn {
+        margin-top: 0;
+    }
+}
+
+
